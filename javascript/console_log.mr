@@ -1,0 +1,7 @@
+Indica cuál es la salida de este código:
+@code
+  let a = 3;
+  console.log(a);
+
+@output*
+  3
